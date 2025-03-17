@@ -13,8 +13,8 @@
   <a href="https://github.com/devtochit?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/devtochit"/>
   </a>
-  <a href="https://github.com/0-don?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0-don?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/devtochit?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/devtochit?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/0-don/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=0-don&style=for-the-badge&color=lightgrey"/>
   </a>
@@ -27,4 +27,4 @@
 ---
 
 ### My Repositories
-Check out my repositories: [devtochit](https://github.com/0-don/devtochit)
+Check out my repositories: [devtochit](https://github.com/devtochit)
